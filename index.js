@@ -2,7 +2,7 @@
 // var util = require("util");
 
 var spawn = require("child_process").spawn;
-var process = spawn("python", ["bme280.py"]);
+var process = spawn("python", ["python.py"]);
 
 // util.log("readingin");
 
